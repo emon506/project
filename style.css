@@ -1,0 +1,78 @@
+html{
+    scroll-behavior: smooth;
+}
+h1,h2,h3,h4{
+    font-family: sans-serif;
+}
+
+nav.navbar{
+    padding: 1% 15%;
+    background-color:#000000cc;
+    
+   
+}
+span i {
+    color: #fff;
+}
+ul.navbar-nav.m-lg-auto li a {
+    color: #fff;
+    text-transform: uppercase;
+    margin-left: 10px;
+    font-size: 13px;
+}
+
+ul.navbar-nav.m-lg-auto li a:hover {
+    color: #fb5200;
+    transition: .5s;
+    border-radius: 5px;
+}
+a.navbar-brand img {
+    width: 84px;
+}
+
+button.btn.btn.bg-info {
+    margin-right: 27px;
+    padding: 3px 25px;
+    color: #fff;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+button.btn.btn.bg-secondary {
+    padding: 3px 18px;
+    color: #fff;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.baner-contants.text-center.mt-5 h1 {
+    color:green;
+    font-size: 30px;
+    font-weight: 900;
+}
+input#search {
+    margin-left: 66px;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    color: gray;
+    background-color: #ddd;
+}
+
+.card {
+    width: 300px;
+    text-align: center;
+    background:  orange;
+}
+
+p {
+    width: 200px;
+    margin: auto;
+}
+
+button.btn.btn.bg-primary {
+    width: 100px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
